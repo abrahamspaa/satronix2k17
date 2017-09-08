@@ -1,0 +1,31 @@
+{
+  "name": "satronix2k17",
+  "version": "1.0.0",
+  "description": "Alpha college symposium for ECE department",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamspaa/satronix2k17.git"
+  },
+  "keywords": [
+    "node",
+    "static",
+    "html"
+  ],
+  "author": "abrahamspaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahamspaa/satronix2k17/issues"
+  },
+  "homepage": "https://github.com/abrahamspaa/satronix2k17#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
